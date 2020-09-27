@@ -1,0 +1,109 @@
+PODS:
+  - AAInfographics (4.0.0)
+  - Alamofire (5.0.0-rc.3)
+  - collection-view-layouts/Core (0.2.2)
+  - collection-view-layouts/FacebookLayout (0.2.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/FlickrLayout (0.2.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/FlipboardLayout (0.2.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/InstagramLayout (0.2.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/PinterestLayout (0.2.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/Px500Layout (0.2.2):
+    - collection-view-layouts/Core
+  - collection-view-layouts/TagsLayout (0.2.2):
+    - collection-view-layouts/Core
+  - FSCalendar (2.8.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - KRWordWrapLabel (2.1.1)
+  - PryntTrimmerView (4.0.0)
+  - Realm (4.3.1):
+    - Realm/Headers (= 4.3.1)
+  - Realm/Headers (4.3.1)
+  - RealmSwift (4.3.1):
+    - Realm (= 4.3.1)
+  - SteviaLayout (4.7.3)
+  - SwiftyGif (5.2.0)
+  - SwiftyJSON (4.3.0)
+  - TextFieldEffects (1.6.0)
+  - Toast-Swift (5.0.1)
+  - YPImagePicker (4.2.0):
+    - PryntTrimmerView (~> 4.0.0)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - AAInfographics (from `https://github.com/AAChartModel/AAChartKit-Swift.git`)
+  - Alamofire (~> 5.0.0-rc.3)
+  - collection-view-layouts/Core
+  - collection-view-layouts/FacebookLayout
+  - collection-view-layouts/FlickrLayout
+  - collection-view-layouts/FlipboardLayout
+  - collection-view-layouts/InstagramLayout
+  - collection-view-layouts/PinterestLayout
+  - collection-view-layouts/Px500Layout
+  - collection-view-layouts/TagsLayout
+  - FSCalendar
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 5.0)
+  - KRWordWrapLabel
+  - RealmSwift
+  - SwiftyGif
+  - SwiftyJSON (~> 4.0)
+  - TextFieldEffects
+  - Toast-Swift (~> 5.0.1)
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - collection-view-layouts
+    - FSCalendar
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - KRWordWrapLabel
+    - PryntTrimmerView
+    - Realm
+    - RealmSwift
+    - SteviaLayout
+    - SwiftyGif
+    - SwiftyJSON
+    - TextFieldEffects
+    - Toast-Swift
+    - YPImagePicker
+
+EXTERNAL SOURCES:
+  AAInfographics:
+    :git: https://github.com/AAChartModel/AAChartKit-Swift.git
+
+CHECKOUT OPTIONS:
+  AAInfographics:
+    :commit: 63b3b880f6f465c611faa53d411d156c35867af8
+    :git: https://github.com/AAChartModel/AAChartKit-Swift.git
+
+SPEC CHECKSUMS:
+  AAInfographics: bbeed03caece4ee3b5e557d734967394e9bcdb11
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  collection-view-layouts: 474ec4cce601a26247737227a97fa6a4eb30213f
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  KRWordWrapLabel: ee5d4e55c16190d69a80d97f283dba150c4f479b
+  PryntTrimmerView: 67e67573ffd4c073f1308effa66aefd0cfa667a0
+  Realm: 31dc40934081ef740f60feedc46d88473cbfeb40
+  RealmSwift: b5199e9a41f67b99f51acf6874a6166f5fbe93d1
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  SwiftyGif: b85c6b33a9411859d9e1db998b6a8214aea942df
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  YPImagePicker: accf310f9526641a84372c0ecf943547d9b1e52c
+
+PODFILE CHECKSUM: f4b1e57758194f3fb8b6a2fe1cb9e350342620ce
+
+COCOAPODS: 1.8.4
